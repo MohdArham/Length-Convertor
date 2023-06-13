@@ -89,15 +89,6 @@ The following conversions are supported:
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Credits
-
-This application was created by [Your Name].
-
-Feel free to customize and enhance the code according to your requirements.
-
-Please note that this README assumes you have a basic understanding of web development and the necessary tools to run the code (a web browser).
-
-
 
 
 
